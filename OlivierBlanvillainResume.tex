@@ -1,0 +1,39 @@
+\documentclass[margin, a4paper]{res}
+
+\usepackage{fontawesome}
+\usepackage{hyperref}
+
+\setlength\parskip{5pt}
+\setlength\parindent{-30pt}
+\addtolength\sectionwidth{20pt}
+\addtolength\hoffset{50pt}
+\addtolength\textwidth{-105pt}
+\addtolength\textheight{100pt}
+\addtolength\topmargin{30pt}
+
+\let\link\href
+\renewcommand{\href}[2]{\link{#1}{\footnotesize\raise-.5pt\hbox{\faExternalLink}}}
+\newcommand{\centered}[1]{\moveleft.37\hoffset\centerline{#1}}
+\newcommand{\y}[1]{#1:\hspace{6pt}}
+
+\begin{document}
+
+  \centered{\large\textbf{Olivier Blanvillain}}
+  \vspace{3pt}
+  \centered{14 Chemin du Stand}
+  \centered{1024 Ecublens VD}
+  \centered{Switzerland}
+  \vspace{3pt}
+  \centered{+41 762 187 285}
+  \centered{\link{mailto:olivier.blanvillain@gmail.com}{\texttt{olivier.blanvillain@gmail.com}}}
+
+  \begin{resume}
+    \input{content.mdtex}
+  \end{resume}
+
+  \vspace{25pt}
+
+  \centered{\footnotesize Links to project repositories are available in the electronic version of this document.}
+  \centered{\footnotesize \url{https://olivierblanvillain.github.io/resume/}}
+
+\end{document}
