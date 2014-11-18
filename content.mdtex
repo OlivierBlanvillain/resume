@@ -1,4 +1,4 @@
-\section{EDUCATION}
+\section{EDUCATION}\label{education}
 
 \y{2015}Master's degree at EPFL in Computer Science (expected, Feb.)
 
@@ -8,29 +8,32 @@
 
 \y{2008}French Scientific Baccalaureate
 
-\section{EXPERIENCE}
+\section{EXPERIENCE}\label{experience}
 
-\y{2014}EPFL, part-time student project. Development of
-SlickChair~\href{https://github.com/SlickChair/SlickChair}{1}: a
-conference management system made with the Play framework and Slick.
-This full-stack development experience allowed me to acquire
-competencies in many aspects of product development; from the
-establishment of specifications, the choice of technologies, the
-implementation, to the deployment of the system in production.
-
-\y{2013}CERN, six-month internship. Design and implementation of the
-BlogForever crawler~\href{https://github.com/BlogForever/crawler}{2}. I
-completed the project very fast, in about 3 months, and used remaining
-time to document with a full-length scientific
+\y{2013}CERN (IT-CIS-DLS), six-month internship: design and
+implementation of the \emph{BlogForever
+Crawler}~\href{https://github.com/BlogForever/crawler}{2}. The project
+was completed very fast, in aboutg half of the allocated time, and the
+remaining time was used to document my work with a scientific
 publication~\href{https://olivierblanvillain.github.io/resume/46-blanvillain.pdf}{3}.
 My novel content extraction algorithm was evaluated with a 93\% success
-rate, outperforming the state-of-the-art solutions by more than 5\%.
+rate, 5\% better than the state-of-the-art solution.
 
-\section{PROJECTS}
+\section{PROJECTS}\label{projects}
 
-\y{2015}EPFL Master Project: Scala.js networking made easy (ongoing). In
-this project I'm designing a networking library that offers a simple,
-unified and type-safe solution to browser-server communication.
+\y{2015}EPFL (LAMP), master project: (ongoing) \emph{Scala.js networking
+made easy}. In this project I am designing a networking library that
+offers a simple, unified and type-safe solution to browser-server
+communication.
+
+\y{2014}EPFL (LARA), semester project: \emph{SlickChair conference
+management system}~\href{https://github.com/SlickChair/SlickChair}{1},
+developed from scractch using Play Framework and Slick. Experienced many
+aspects of software development; from the establishment of
+specifications, the choice of technologies, the implementation, to the
+deployment in production. The first SlickChair instance was used for the
+FMCAD 2014 student forum and is planned to be used for future Scala
+conferences.
 
 \y{2014}Main technical reviewer of \emph{Slick Queries in Scala}, ISBN
 8113OS
@@ -41,14 +44,14 @@ Shell~\href{https://github.com/OlivierBlanvillain/bourne-shell-list}{4}
 \y{2012}Minimal content management system using Google
 Docs~\href{https://code.google.com/p/google-cms/}{5}
 
-\y{2011}EPFL Semester Project: Parallelization of a collaborative
+\y{2011}EPFL, semester project: Parallelization of a collaborative
 filtering algorithm with
 Menthor~\href{https://github.com/OlivierBlanvillain/menthor/tree/recommender}{6}
 
 \y{2010}Java bot for a flash puzzle
 game~\href{https://code.google.com/p/hypercube-bot/}{7}
 
-\section{PERSONAL}
+\section{PERSONAL}\label{personal}
 
 Born on July 9, 1990, dual citizenship French-Swiss
 
