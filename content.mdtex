@@ -35,9 +35,6 @@ deployment in production. The first SlickChair instance was used for the
 FMCAD 2014 student forum and is planned to be used for future Scala
 conferences.
 
-\y{2014}Main technical reviewer of \emph{Slick Queries in Scala}, ISBN
-8113OS
-
 \y{2014}Library for functional programming in Unix
 Shell~\href{https://github.com/OlivierBlanvillain/bourne-shell-list}{4}
 

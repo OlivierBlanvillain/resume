@@ -23,8 +23,6 @@ PROJECTS
 
 \y{2014}EPFL (LARA), semester project: *SlickChair conference management system*\ [1], developed from scractch using Play Framework and Slick. Experienced many aspects of software development; from the establishment of specifications, the choice of technologies, the implementation, to the deployment in production. The first SlickChair instance was used for the FMCAD 2014 student forum and is planned to be used for future Scala conferences.
 
-\y{2014}Main technical reviewer of *Slick Queries in Scala*, ISBN 8113OS
-
 \y{2014}Library for functional programming in Unix Shell\ [4]
 
 \y{2012}Minimal content management system using Google Docs\ [5]
