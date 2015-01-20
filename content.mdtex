@@ -1,4 +1,4 @@
-\section{EDUCATION}\label{education}
+\section{Education}\label{education}
 
 \y{2015}Master's degree at EPFL in Computer Science (expected, Feb.)
 
@@ -8,18 +8,18 @@
 
 \y{2008}French Scientific Baccalaureate
 
-\section{EXPERIENCE}\label{experience}
+\section{Experience}\label{experience}
 
 \y{2013}CERN (IT-CIS-DLS), six-month internship: design and
 implementation of the \emph{BlogForever
 Crawler}~\href{https://github.com/BlogForever/crawler}{2}. The project
-was completed very fast, in aboutg half of the allocated time, and the
+was completed very fast, in about half of the allocated time, and the
 remaining time was used to document my work with a scientific
 publication~\href{https://olivierblanvillain.github.io/resume/46-blanvillain.pdf}{3}.
 My novel content extraction algorithm was evaluated with a 93\% success
 rate, 5\% better than the state-of-the-art solution.
 
-\section{PROJECTS}\label{projects}
+\section{Projects}\label{projects}
 
 \y{2015}EPFL (LAMP), master project: (ongoing) \emph{Scala.js networking
 made easy}. In this project I am designing a networking library that
@@ -48,7 +48,7 @@ Menthor~\href{https://github.com/OlivierBlanvillain/menthor/tree/recommender}{6}
 \y{2010}Java bot for a flash puzzle
 game~\href{https://code.google.com/p/hypercube-bot/}{7}
 
-\section{PERSONAL}\label{personal}
+\section{Personal}\label{personal}
 
 Born on July 9, 1990, dual citizenship French-Swiss
 

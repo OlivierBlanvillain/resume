@@ -1,5 +1,4 @@
-EDUCATION
-=========
+# Education
 
 \y{2015}Master's degree at EPFL in Computer Science (expected, Feb.)
 
@@ -10,14 +9,12 @@ EDUCATION
 \y{2008}French Scientific Baccalaureate
 
 
-EXPERIENCE
-==========
+# Experience
 
-\y{2013}CERN (IT-CIS-DLS), six-month internship: design and implementation of the *BlogForever Crawler*\ [2]. The project was completed very fast, in aboutg half of the allocated time, and the remaining time was used to document my work with a scientific publication\ [3]. My novel content extraction algorithm was evaluated with a 93% success rate, 5% better than the state-of-the-art solution.
+\y{2013}CERN (IT-CIS-DLS), six-month internship: design and implementation of the *BlogForever Crawler*\ [2]. The project was completed very fast, in about half of the allocated time, and the remaining time was used to document my work with a scientific publication\ [3]. My novel content extraction algorithm was evaluated with a 93% success rate, 5% better than the state-of-the-art solution.
 
 
-PROJECTS
-========
+# Projects
 
 \y{2015}EPFL (LAMP), master project: (ongoing) *Scala.js networking made easy*. In this project I am designing a networking library that offers a simple, unified and type-safe solution to browser-server communication.
 
@@ -32,8 +29,7 @@ PROJECTS
 \y{2010}Java bot for a flash puzzle game\ [7]
 
 
-PERSONAL
-========
+# Personal
 
 Born on July 9, 1990, dual citizenship French-Swiss
 
