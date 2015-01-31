@@ -1,8 +1,8 @@
 # Education
 
-\y{2015}Master's degree at EPFL in Computer Science (expected, Feb.)
+\y{2015}EPFL Master's degree in Computer Science, GPA: 5.26/6
 
-\y{2012}Bachelor's degree at EPFL in Computer Science, GPA: 5.47/6
+\y{2012}EPFL Bachelor's degree in Computer Science, GPA: 5.47/6
 
 \y{2009}EPFL preparatory year (CMS)
 
@@ -16,7 +16,7 @@
 
 # Projects
 
-\y{2015}EPFL (LAMP), master project: (ongoing) *Scala.js networking made easy*. In this project I am designing a networking library that offers a simple, unified and type-safe solution to browser-server communication.
+\y{2015}EPFL (LAMP), master project: *Scala.js networking made easy*. In this project I am designing a networking library that offers a simple, unified and type-safe solution to browser-server communication.
 
 \y{2014}EPFL (LARA), semester project: *SlickChair conference management system*\ [1], developed from scractch using Play Framework and Slick. Experienced many aspects of software development; from the establishment of specifications, the choice of technologies, the implementation, to the deployment in production. The first SlickChair instance was used for the FMCAD 2014 student forum and is planned to be used for future Scala conferences.
 

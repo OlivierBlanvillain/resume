@@ -1,8 +1,8 @@
 \section{Education}\label{education}
 
-\y{2015}Master's degree at EPFL in Computer Science (expected, Feb.)
+\y{2015}EPFL Master's degree in Computer Science, GPA: 5.26/6
 
-\y{2012}Bachelor's degree at EPFL in Computer Science, GPA: 5.47/6
+\y{2012}EPFL Bachelor's degree in Computer Science, GPA: 5.47/6
 
 \y{2009}EPFL preparatory year (CMS)
 
@@ -21,10 +21,9 @@ rate, 5\% better than the state-of-the-art solution.
 
 \section{Projects}\label{projects}
 
-\y{2015}EPFL (LAMP), master project: (ongoing) \emph{Scala.js networking
-made easy}. In this project I am designing a networking library that
-offers a simple, unified and type-safe solution to browser-server
-communication.
+\y{2015}EPFL (LAMP), master project: \emph{Scala.js networking made
+easy}. In this project I am designing a networking library that offers a
+simple, unified and type-safe solution to browser-server communication.
 
 \y{2014}EPFL (LARA), semester project: \emph{SlickChair conference
 management system}~\href{https://github.com/SlickChair/SlickChair}{1},
