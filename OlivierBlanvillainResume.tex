@@ -1,4 +1,4 @@
-\documentclass[10pt, margin, a4paper]{res}
+\documentclass[margin]{res}
 
 \usepackage{fontawesome}
 \usepackage{fontspec}
@@ -6,37 +6,39 @@
 \setmainfont{Adobe Caslon Pro}
 \usepackage[hidelinks]{hyperref}
 
-\setlength\parskip{5pt}
+\setlength\parskip{7pt}
 \setlength\parindent{-30pt}
-\addtolength\sectionwidth{20pt}
-\addtolength\hoffset{50pt}
-\addtolength\textwidth{-105pt}
+\addtolength\sectionwidth{10pt}
+\addtolength\hoffset{47pt}
+\addtolength\textwidth{-88pt}
 \addtolength\textheight{100pt}
 \addtolength\topmargin{30pt}
 
 \let\link\href
 \renewcommand{\href}[2]{\link{#1}{\scriptsize{\faExternalLink}}}
-\newcommand{\centered}[1]{\moveleft.37\hoffset\centerline{#1}}
+\newcommand{\centered}[1]{\moveleft.355\hoffset\centerline{#1}}
 \newcommand{\y}[1]{#1:\hspace{6pt}}
+
+\renewcommand{\textasciitilde}[0]{:\hspace{6pt}}
 
 \begin{document}
 
-  \centered{\LARGE\textbf{Olivier Blanvillain}}
-  \vspace{3pt}
-  \centered{Avenue du Moulin 9}
-  \centered{1110 Morges}
-  \centered{Switzerland}
-  \vspace{3pt}
-  \centered{+41 762 187 285}
-  \centered{\link{mailto:olivier.blanvillain@gmail.com}{\texttt{olivier.blanvillain@gmail.com}}}
+\centered{\LARGE\textbf{Olivier Blanvillain}}
+\vspace{3pt}
+\centered{Avenue du Moulin 9}
+\centered{1110 Morges}
+\centered{Switzerland}
+\vspace{3pt}
+\centered{+41 762 187 285}
+\centered{\link{mailto:olivier.blanvillain@gmail.com}{\texttt{olivier.blanvillain@gmail.com}}}
 
-  \begin{resume}
-    \input{content.mdtex}
-  \end{resume}
+\begin{resume}
+  \input{content.mdtex}
+\end{resume}
 
-  \vspace{25pt}
+\vspace{25pt}
 
-  \centered{\footnotesize Links to project repositories are available in the electronic version of this document.}
-  \centered{\footnotesize \url{https://olivierblanvillain.github.io/resume/}}
+\centered{\footnotesize Links to project repositories are available in the electronic version of this document.}
+\centered{\footnotesize\url{https://olivierblanvillain.github.io/resume/}}
 
 \end{document}

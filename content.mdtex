@@ -1,51 +1,53 @@
 \section{Education}\label{education}
 
-\y{2015}EPFL Master's degree in Computer Science, GPA: 5.26/6
+2015\textasciitilde{}EPFL Master's degree in Computer Science, GPA:
+5.26/6
 
-\y{2012}EPFL Bachelor's degree in Computer Science, GPA: 5.47/6
+2012\textasciitilde{}EPFL Bachelor's degree in Computer Science, GPA:
+5.47/6
 
-\y{2009}EPFL preparatory year (CMS)
+2009\textasciitilde{}EPFL preparatory year (CMS)
 
-\y{2008}French Scientific Baccalaureate
+2008\textasciitilde{}French Scientific Baccalaureate
 
 \section{Experience}\label{experience}
 
-\y{2013}CERN (IT-CIS-DLS), six-month internship: design and
-implementation of the \emph{BlogForever
-Crawler}~\href{https://github.com/BlogForever/crawler}{2}. The project
-was completed very fast, in about half of the allocated time, and the
-remaining time was used to document my work with a scientific
-publication~\href{https://olivierblanvillain.github.io/resume/46-blanvillain.pdf}{3}.
-My novel content extraction algorithm was evaluated with a 93\% success
-rate, 5\% better than the state-of-the-art solution.
+2013\textasciitilde{}CERN (IT-CIS-DLS), six-month internship: design and
+implementation of the \emph{BlogForever Crawler} in Python
+\href{https://github.com/BlogForever/crawler}{1}. The new content
+extraction algorithm lead to a conference paper which was later extended
+to a journal version published in the \emph{International Journal of AI
+Tools} \href{https://dl.acm.org/citation.cfm?id=2611067}{2}.
 
 \section{Projects}\label{projects}
 
-\y{2015}EPFL (LAMP), master project: \emph{Scala.js networking made
-easy}. In this project I am designing a networking library that offers a
-simple, unified and type-safe solution to browser-server communication.
+2015\textasciitilde{}EPFL (LAMP), master project: \emph{Scala.js
+networking made easy}. Designed a networking library for simple, unified
+and type-safe browser-server communication
+\href{https://github.com/OlivierBlanvillain/scala-js-transport}{3}.
+Built a cross platform, real time multiplayer game with predictive
+latency compensation as an illustration
+\href{https://github.com/OlivierBlanvillain/survivor}{4}.
 
-\y{2014}EPFL (LARA), semester project: \emph{SlickChair conference
-management system}~\href{https://github.com/SlickChair/SlickChair}{1},
-developed from scractch using Play Framework and Slick. Experienced many
-aspects of software development; from the establishment of
-specifications, the choice of technologies, the implementation, to the
-deployment in production. The first SlickChair instance was used for the
-FMCAD 2014 student forum and is planned to be used for future Scala
-conferences.
+2014\textasciitilde{}EPFL (LARA), semester project: \emph{SlickChair
+conference management system}
+\href{https://github.com/SlickChair/SlickChair}{5}, developed from
+scratch using Play and Slick. Experienced many aspects of software
+development: establishment of specifications, choice of technologies,
+implementation and deployment in production.
 
-\y{2014}Library for functional programming in Unix
-Shell~\href{https://github.com/OlivierBlanvillain/bourne-shell-list}{4}
+2014\textasciitilde{}Library for functional programming in Unix Shell
+\href{https://github.com/OlivierBlanvillain/bourne-shell-list}{6}
 
-\y{2012}Minimal content management system using Google
-Docs~\href{https://code.google.com/p/google-cms/}{5}
+2012\textasciitilde{}Minimal content management system using Google Docs
+\href{https://code.google.com/p/google-cms}{7}
 
-\y{2011}EPFL, semester project: Parallelization of a collaborative
-filtering algorithm with
-Menthor~\href{https://github.com/OlivierBlanvillain/menthor/tree/recommender}{6}
+2011\textasciitilde{}Parallelization of a collaborative filtering
+algorithm with Menthor
+\href{https://github.com/OlivierBlanvillain/menthor/tree/recommender}{8}
 
-\y{2010}Java bot for a flash puzzle
-game~\href{https://code.google.com/p/hypercube-bot/}{7}
+2010\textasciitilde{}Java bot for a flash puzzle game
+\href{https://code.google.com/p/hypercube-bot}{9}
 
 \section{Personal}\label{personal}
 
