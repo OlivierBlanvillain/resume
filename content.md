@@ -26,13 +26,27 @@
 
 2010~Java bot for a flash puzzle game [9]
 
+# Languages
+<!-- Top 30 languages according to http://spectrum.ieee.org/static/interactive-the-top-programming-languages -->
+\setlength\parskip{1pt}\vspace{6pt}
+
+Expert: Java, Python, Scala, Shell
+
+Intermediate: C, C#, PHP, SQL
+
+Beginner: JavaScript, R, Perl, VHDL, Clojure
+
+Interested: C++, Ruby, Go, Lua, Haskell, Lisp
+
+\setlength\parskip{7pt}
+
 # Personal
 
 Born on July 9, 1990, dual citizenship French-Swiss
 
 Languages: French (mother tongue), English (C1), Spanish (B2)
 
-Hobbies: music, board games, unicycle
+Hobbies: Music, video games, board games, unicycle
 
 
 [1]: https://github.com/BlogForever/crawler
@@ -44,3 +58,4 @@ Hobbies: music, board games, unicycle
 [7]: https://code.google.com/p/google-cms
 [8]: https://github.com/OlivierBlanvillain/menthor/tree/recommender
 [9]: https://code.google.com/p/hypercube-bot
+
