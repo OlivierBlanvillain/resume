@@ -4,7 +4,7 @@
 
 2012~EPFL Bachelor's degree in Computer Science, GPA: 5.47/6
 
-2009~EPFL preparatory year (CMS)
+2009~EPFL preparatory year (CMS), GPA: 5.31/6
 
 2008~French Scientific Baccalaureate
 
