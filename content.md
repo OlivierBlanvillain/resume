@@ -10,6 +10,8 @@
 
 # Experience
 
+2015~MFG Labs, back-end software engineer.
+
 2013~CERN (IT-CIS-DLS), six-month internship: design and implementation of the *BlogForever Crawler* in Python [1]. The new content extraction algorithm lead to a conference paper which was later extended to a journal version published in the *International Journal of AI Tools* [2].
 
 # Projects
@@ -32,11 +34,11 @@
 
 Expert: Java, Python, Scala, Shell
 
-Intermediate: C, C#, PHP, SQL
+Intermediate: C, C#, PHP, SQL, Haskell
 
 Beginner: JavaScript, R, Perl, VHDL, Clojure
 
-Interested: C++, Ruby, Go, Lua, Haskell, Lisp
+Interested: C++, Ruby, Go, Lua, Lisp
 
 \setlength\parskip{7pt}
 
@@ -44,7 +46,7 @@ Interested: C++, Ruby, Go, Lua, Haskell, Lisp
 
 Born on July 9, 1990, dual citizenship French-Swiss
 
-Languages: French (mother tongue), English (C1), Spanish (B2)
+Languages: French (mother tongue), English (C1/C2), Spanish (B2)
 
 Hobbies: Music, video games, board games, unicycle
 
