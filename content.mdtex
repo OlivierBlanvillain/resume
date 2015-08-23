@@ -6,11 +6,16 @@
 2012\textasciitilde{}EPFL Bachelor's degree in Computer Science, GPA:
 5.47/6
 
-2009\textasciitilde{}EPFL preparatory year (CMS)
+2009\textasciitilde{}EPFL preparatory year (CMS), GPA: 5.31/6
 
 2008\textasciitilde{}French Scientific Baccalaureate
 
 \section{Experience}\label{experience}
+
+2015\textasciitilde{}MFG Labs, June 2015 - present: Backend Software
+Engineer working on an AdTech product. Scala, Akka, Reactive Stream,
+Play, Slick, PostgreSQL, Elasticsearch, Docker, AWS (Redshift, SQS, S3,
+EBS).
 
 2013\textasciitilde{}CERN (IT-CIS-DLS), six-month internship: design and
 implementation of the \emph{BlogForever Crawler} in Python
@@ -55,18 +60,14 @@ algorithm with Menthor
 
 Expert: Java, Python, Scala, Shell
 
-Intermediate: C, C\#, PHP, SQL
+Intermediate: C, C\#, PHP, SQL, Haskell
 
 Beginner: JavaScript, R, Perl, VHDL, Clojure
-
-Interested: C++, Ruby, Go, Lua, Haskell, Lisp
-
-\setlength\parskip{7pt}
 
 \section{Personal}\label{personal}
 
 Born on July 9, 1990, dual citizenship French-Swiss
 
-Languages: French (mother tongue), English (C1), Spanish (B2)
+Languages: French (mother tongue), English (C1/C2), Spanish (B2)
 
 Hobbies: Music, video games, board games, unicycle

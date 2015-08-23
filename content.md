@@ -10,7 +10,7 @@
 
 # Experience
 
-2015~MFG Labs, back-end software engineer.
+2015~MFG Labs, June 2015 - present: Backend Software Engineer working on an AdTech product. Scala, Akka, Reactive Stream, Play, Slick, PostgreSQL, Elasticsearch, Docker, AWS (Redshift, SQS, S3, EBS).
 
 2013~CERN (IT-CIS-DLS), six-month internship: design and implementation of the *BlogForever Crawler* in Python [1]. The new content extraction algorithm lead to a conference paper which was later extended to a journal version published in the *International Journal of AI Tools* [2].
 
@@ -29,7 +29,6 @@
 2010~Java bot for a flash puzzle game [9]
 
 # Languages
-<!-- Top 30 languages according to http://spectrum.ieee.org/static/interactive-the-top-programming-languages -->
 \setlength\parskip{1pt}\vspace{6pt}
 
 Expert: Java, Python, Scala, Shell
@@ -38,10 +37,6 @@ Intermediate: C, C#, PHP, SQL, Haskell
 
 Beginner: JavaScript, R, Perl, VHDL, Clojure
 
-Interested: C++, Ruby, Go, Lua, Lisp
-
-\setlength\parskip{7pt}
-
 # Personal
 
 Born on July 9, 1990, dual citizenship French-Swiss
@@ -49,7 +44,6 @@ Born on July 9, 1990, dual citizenship French-Swiss
 Languages: French (mother tongue), English (C1/C2), Spanish (B2)
 
 Hobbies: Music, video games, board games, unicycle
-
 
 [1]: https://github.com/BlogForever/crawler
 [2]: https://dl.acm.org/citation.cfm?id=2611067
