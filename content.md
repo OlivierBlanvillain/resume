@@ -6,11 +6,11 @@
 
 2009~EPFL preparatory year (CMS), GPA: 5.31/6
 
-2008~French Scientific Baccalaureate
+2008~French Baccalaureate
 
 # Experience
 
-2015~MFG Labs, June 2015 - present: Lead Software Engineer
+2015~MFG Labs, June 2015 - present: Software Engineer
 
 - Working on an AdTech product, leading a team of 6 software engineers
 
@@ -20,16 +20,20 @@
 
 - [Designed and implemented the BlogForever Crawler in Python](https://github.com/BlogForever/crawler)
 
-- [Published a journal paper on the content extraction algorithm](https://dl.acm.org/citation.cfm?id=2611067)
+- [Published a research paper on the content extraction algorithm](https://dl.acm.org/citation.cfm?id=2611067)
 
 
 # Projects
 
-2015~[Unified Validation Library, redesigned for Scala.js](https://github.com/jto/validation)
+2016~[OSS contribution: Frameless](https://github.com/adelbertc/frameless)
 
-- Modernised all pure functional concepts using Cats
+- Type-safe wrapper around Spark APIs
 
-- Implemented automatic type class derivation with Shapeless
+2015~[OSS contribution: Play Validation](https://github.com/jto/validation/pulls)
+
+- Removed dependency on Play, replacing it with Cats
+
+- Replaced macro by automatic type class derivation with Shapeless
 
 2015~EPFL (LAMP), [master project: Scala.js networking made easy](https://github.com/OlivierBlanvillain/master-thesis)
 
@@ -51,7 +55,7 @@
 
 2010~[Java bot for a flash puzzle game](https://code.google.com/p/hypercube-bot)
 
-All projects are available open source on [http://github.com/olivierblanvillain](https://github.com/olivierblanvillain)
+All projects above are available open source at [https://github.com/olivierblanvillain/](https://github.com/olivierblanvillain)
 
 # Languages
 \setlength\parskip{1pt}\vspace{6pt}
