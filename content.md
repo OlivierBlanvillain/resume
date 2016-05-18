@@ -8,15 +8,16 @@
 
 2008~French Baccalaureate
 
+
 # Experience
 
 2015~MFG Labs, June 2015 - present: Software Engineer
 
 - Working on an AdTech product, leading a team of 6 software engineers
 
-- Scala, Play, Slick, Spark, PostgreSQL, Akka Streams, Elasticsearch, AWS
+- Scala, Play, PostgreSQL, Slick, Spark, Akka Streams, Elasticsearch, AWS
 
-2013~CERN (IT-CIS-DLS), six-month: Software Engineer Intern
+2013~CERN (IT-CIS-DLS), 6 month: Software Engineer Intern
 
 - [Designed and implemented the BlogForever Crawler in Python](https://github.com/BlogForever/crawler)
 
@@ -29,7 +30,7 @@
 
 - Type-safe wrapper around Spark APIs
 
-2015~[OSS contribution: Play Validation](https://github.com/jto/validation/pulls)
+2015~[OSS contribution: Unified Validation Library](https://github.com/jto/validation/pulls)
 
 - Removed dependency on Play, replacing it with Cats
 
@@ -57,14 +58,6 @@
 
 All projects above are available open source at [https://github.com/olivierblanvillain/](https://github.com/olivierblanvillain)
 
-# Languages
-\setlength\parskip{1pt}\vspace{6pt}
-
-Expert: Scala, Java, Python, Shell
-
-Intermediate: C, C#, PHP, SQL, Haskell
-
-Beginner: JavaScript, R, Perl, VHDL, Clojure
 
 # Personal
 
