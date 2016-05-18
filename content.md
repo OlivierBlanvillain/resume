@@ -11,7 +11,9 @@
 
 # Experience
 
-2015~MFG Labs, June 2015 - present: Software Engineer
+2016~EPFL, PhD Program in Computer Science, EDIC Fellowship
+
+2015~MFG Labs, 14 month: Software Engineer
 
 - Working on an AdTech product, leading a team of 6 software engineers
 

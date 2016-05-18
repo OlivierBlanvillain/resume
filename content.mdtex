@@ -12,17 +12,20 @@
 
 \section{Experience}\label{experience}
 
-2015\textasciitilde{}MFG Labs, June 2015 - present: Software Engineer
+2016\textasciitilde{}EPFL, PhD Program in Computer Science, EDIC
+Fellowship
+
+2015\textasciitilde{}MFG Labs, 14 month: Software Engineer
 
 \begin{itemize}
 \item
   Working on an AdTech product, leading a team of 6 software engineers
 \item
-  Scala, Play, Slick, Spark, PostgreSQL, Akka Streams, Elasticsearch,
+  Scala, Play, PostgreSQL, Slick, Spark, Akka Streams, Elasticsearch,
   AWS
 \end{itemize}
 
-2013\textasciitilde{}CERN (IT-CIS-DLS), six-month: Software Engineer
+2013\textasciitilde{}CERN (IT-CIS-DLS), 6 month: Software Engineer
 Intern
 
 \begin{itemize}
@@ -46,7 +49,7 @@ contribution: Frameless}
 \end{itemize}
 
 2015\textasciitilde{}\href{https://github.com/jto/validation/pulls}{OSS
-contribution: Play Validation}
+contribution: Unified Validation Library}
 
 \begin{itemize}
 \item
@@ -93,16 +96,6 @@ bot for a flash puzzle game}
 
 All projects above are available open source at
 \href{https://github.com/olivierblanvillain}{https://github.com/olivierblanvillain/}
-
-\section{Languages}\label{languages}
-
-\setlength\parskip{1pt}\vspace{6pt}
-
-Expert: Scala, Java, Python, Shell
-
-Intermediate: C, C\#, PHP, SQL, Haskell
-
-Beginner: JavaScript, R, Perl, VHDL, Clojure
 
 \section{Personal}\label{personal}
 
