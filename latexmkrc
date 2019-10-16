@@ -4,7 +4,7 @@ $pdf_update_method = 0;
 $pdf_mode = 1;
 $preview_continuous_mode = 1;
 
-@default_files = ('OlivierBlanvillainResume.tex');
+@default_files = ('olivier-blanvillain-resume.tex');
 
 add_cus_dep('md', 'mdtex', 0, 'md2tex');
 sub md2tex {
