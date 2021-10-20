@@ -1,41 +1,78 @@
-\documentclass[margin]{res}
+\documentclass[marginmode, 11pt]{res}
 
 \usepackage{fontspec}
-\usepackage[protrusion=true, final]{microtype}
-\usepackage[hidelinks]{hyperref}
 \usepackage{enumitem}
+\usepackage{geometry}
 
 \setmainfont{Adobe Caslon Pro}
-
-\setlength\parskip{7pt}
-\setlength\parindent{-30pt}
-\addtolength\sectionwidth{10pt}
-\addtolength\hoffset{27pt}
-\addtolength\textwidth{-63pt}
-\addtolength\textheight{100pt}
-\addtolength\topmargin{22pt}
-\setlist{parsep=0pt, leftmargin=-1pt}
-
+\setlist{parsep=0pt, leftmargin=15pt}
+\geometry{a4paper, left=22mm, top=30mm}
+\setlength\parskip{10pt}
+\newsectionwidth{90pt}
 \newcommand{\centered}[1]{\moveleft.43\hoffset\centerline{#1}}
-\newcommand{\y}[1]{#1:\hspace{6pt}}
-\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-
-\renewcommand{\textasciitilde}[0]{:\hspace{6pt}}
+\renewcommand{\:}[0]{:~}
 
 \begin{document}
 
 \centered{\LARGE\textbf{Olivier Blanvillain}}
-\vspace{3pt}
+\vspace{10pt}
 
 \centered{Avenue Floréal 5}
 \centered{1006 Lausanne, Switzerland}
 \vspace{3pt}
 \centered{+417 86 85 77 85}
 \vspace{2pt}
-\centered{\href{mailto:olivier.blanvillain@gmail.com}{\texttt{olivier.blanvillain@gmail.com}}}
+\centered{\texttt{olivier.blanvillain@gmail.com}}
 
 \begin{resume}
-  \input{content.mdtex}
+
+\section{Education}
+
+2022\: PhD in Computer Science at EPFL (expected)
+
+2015\: EPFL Master's degree in Computer Science
+
+2012\: EPFL Bachelor's degree in Computer Science
+
+2008\: French Baccalaureate
+
+\section{Experience}
+
+2016-2022\: Doctoral Assistant at EPFL in the Programming Methods Laboratory under the supervision of Prof. Martin Odersky.
+
+\begin{itemize}
+  \item Co-designed, implemented and formalized match types, a new Scala feature for type-level computations.
+  \item Co-designed and prototyped a dependently typed extension of Scala based on singleton types.
+  \item Supervised several master student projects and worked as a teaching assistant for undergraduate courses (CS-210 and CS-206).
+\end{itemize}
+
+2015-2016\: Software Engineer at MFG Labs (14 months).
+
+\begin{itemize}
+  \item Lead a team of 6 engineers working on an AdTech project.
+  \item Worked with Scala, Play, PostgreSQL, Spark, Elasticsearch, AWS.
+\end{itemize}
+
+2013\: Software Engineer Intern at CERN (6 months).
+
+\section{Publications}
+
+
+O. Blanvillain, J. Brachthäuser, M. Kjaer, M. Odersky. Type-Level Programming with Match Types. In \emph{Symposium on Principles of Programming Languages}, 2022 (POPL'22).
+
+M. Odersky, O. Blanvillain, F. Liu, A. Biboudis, H. Miller, S. Stucki. Simplicitly: Foundations and Applications of Implicit Function Types. In \emph{Symposium on Principles of Programming Languages}, 2018 (POPL'18).
+
+O. Blanvillain, N. Kasioumis, V. Banos. BlogForever Crawler: Techniques and Algorithms to Harvest Modern Weblogs. In \emph{Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics}, 2014 (WIMS'14).
+
+\section{Personal}
+
+Born on July 9, 1990 in Geneva, dual citizenship French-Swiss.
+
+Languages: French (mother tongue), English (C1/C2), Spanish (B2).
+
+Hobbies: Music (piano, drums and lots of listening), board
+games, cycling.
+
 \end{resume}
 
 \end{document}
