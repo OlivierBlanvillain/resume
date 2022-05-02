@@ -1,0 +1,41 @@
+\documentclass[marginmode, 11pt]{res}
+
+\usepackage{fontspec}
+\usepackage{geometry}
+\usepackage[francais]{babel}
+\usepackage{changepage}
+
+\setmainfont{Adobe Caslon Pro}
+\geometry{a4paper, left=22mm, top=30mm}
+\newsectionwidth{0pt}
+\newcommand{\centered}[1]{\moveleft.48\hoffset\centerline{#1}}
+
+\newsectionwidth{90pt}
+
+\begin{document}
+
+\centered{\LARGE\textbf{Olivier Blanvillain}}
+\vspace{10pt}
+
+\centered{Avenue Floréal 5}
+\centered{1006 Lausanne, Switzerland}
+\vspace{3pt}
+\vspace{2pt}
+\centered{\texttt{olivier.blanvillain@gmail.com}}
+
+\begin{resume}
+\begin{adjustwidth}{10pt}{100pt}
+\setlength\parskip{10pt}
+
+\vspace{50pt}
+
+Lausanne, \today
+
+\textbf{Cover letter}
+
+Olivier Blanvillain
+
+\end{adjustwidth}
+\end{resume}
+
+\end{document}
