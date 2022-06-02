@@ -1,6 +1,6 @@
 .ONESHELL:
 .PHONY: FORCE
-all: olivier-blanvillain.pdf cover-letter.pdf
+all: olivier-blanvillain.pdf
 
 %.pdf: %.tex FORCE
 	xelatex --file-line-error -interaction=nonstopmode $<
