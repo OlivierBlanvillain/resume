@@ -4,75 +4,76 @@
 \usepackage{enumitem}
 \usepackage{geometry}
 
+\usepackage[autostyle=false, style=english]{csquotes}
+\MakeOuterQuote{"}
 \setmainfont{Adobe Caslon Pro}
 \setlist{parsep=0pt, leftmargin=15pt}
-\geometry{a4paper, left=22mm, top=30mm}
-\setlength\parskip{10pt}
+\geometry{a4paper, left=22mm, top=35mm}
+\setlength\parskip{12pt}
 \newsectionwidth{90pt}
 \newcommand{\centered}[1]{\moveleft.48\hoffset\centerline{#1}}
-\renewcommand{\:}[0]{:~}
 
 \begin{document}
 
 \centered{\LARGE\textbf{Olivier Blanvillain}}
-\vspace{10pt}
-
-\centered{Avenue du Moulin 7}
-\centered{1110 Morges, Switzerland}
-\vspace{3pt}
+% \centered{54 Scrutton Street}
+% \centered{London EC2A 4PH}
 % \centered{+417 86 85 77 85}
-\vspace{2pt}
 \centered{\texttt{olivier.blanvillain@gmail.com}}
+\vspace{12pt}
 
 \begin{resume}
 
 \section{Education}
 
-2022\: PhD in Computer Science at EPFL
+2022:~ PhD in Computer Science at EPFL
 
-2015\: EPFL Master's degree in Computer Science
+2015:~ EPFL Master's degree in Computer Science
 
-2012\: EPFL Bachelor's degree in Computer Science
-
-2008\: French Baccalaureate
+2012:~ EPFL Bachelor's degree in Computer Science
 
 \section{Experience}
 
-2016-2022\: Doctoral Assistant at EPFL in the Programming Methods Laboratory under the supervision of Prof. Martin Odersky.
+2023--present:~ Software Engineer at Hudson River Trading (London)
 
 \begin{itemize}
-  \item Active member of the Scala compiler team; contributions include improvements to the type checker, the pattern matching phase, and local optimizations.
-  \item Co-designed, implemented and formalized match types, a new Scala feature for type-level programming.
-  \item Worked as a teaching assistant for the functional programming, and parallelism and concurrency courses. Supervised several students in their B.Sc. and M.Sc. thesis.
+  \item Use C++ and Python to implement platforms and tools for algorithmic trading;
+  \item Develop scalable data storage and distribution systems for statistical analysis.
 \end{itemize}
 
-2015-2016\: Software Engineer at MFG Labs (Paris, 14 months).
+2016--2022:~ Doctoral Assistant at EPFL in the Programming Methods Laboratory under the supervision of Prof. Martin Odersky (Lausanne, 5.5 years)
 
 \begin{itemize}
-  \item Lead a team of 6 engineers working on an AdTech project.
-  \item Worked with Scala, Play, PostgreSQL, Spark, Elasticsearch, AWS.
+  \item Active member of the Scala 3 compiler team;
+  \item Co-designed, implemented and formalized a new language feature: match types;
+  \item Teaching assistant for Functional Programming and Parallelism \& Concurrency.
 \end{itemize}
 
-2013\: Software Engineer Intern at CERN (Geneva, 6 months).
+2015--2016:~ Software Engineer at MFG Labs (Paris, 15 months)
+
+\begin{itemize}
+  \item Developed an Adtech product using Scala, PostgreSQL, Spark, Elasticsearch, AWS.
+\end{itemize}
+
+2013:~ Software Engineer Intern at CERN (Geneva, 6 months)
 
 \section{Publications}
 
-O. Blanvillain. Type-Safe Regular Expressions. In \emph{Scala Symposium}, 2022 (SCALA'22).
+O. Blanvillain. "Type-Safe Regular Expressions". In \emph{Scala Symposium}, 2022 (SCALA'22)
 
-O. Blanvillain, J. Brachthäuser, M. Kjaer, M. Odersky. Type-Level Programming with Match Types. In \emph{Symposium on Principles of Programming Languages}, 2022 (POPL'22).
+O. Blanvillain, J. Brachthäuser, M. Kjaer, M. Odersky. "Type-Level Programming with Match Types". In \emph{Symposium on Principles of Programming Languages}, 2022 (POPL'22)
 
-M. Odersky, O. Blanvillain, F. Liu, A. Biboudis, H. Miller, S. Stucki. Simplicitly: Foundations and Applications of Implicit Function Types. In \emph{Symposium on Principles of Programming Languages}, 2018 (POPL'18).
+M. Odersky, O. Blanvillain, F. Liu, A. Biboudis, H. Miller, S. Stucki. "Simplicitly: Foundations and Applications of Implicit Function Types". In \emph{Symposium on Principles of Programming Languages}, 2018 (POPL'18)
 
-O. Blanvillain, N. Kasioumis, V. Banos. BlogForever Crawler: Techniques and Algorithms to Harvest Modern Weblogs. In \emph{Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics}, 2014 (WIMS'14).
+O. Blanvillain, N. Kasioumis, V. Banos. "BlogForever Crawler: Techniques and Algorithms to Harvest Modern Weblogs". In \emph{Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics}, 2014 (WIMS'14).
 
 \section{Personal}
 
-Born on July 9, 1990 in Geneva, dual citizenship French-Swiss.
+Born on July 9, 1990, dual French-Swiss citizenship.
 
 Languages: French (mother tongue), English (fluent), Spanish (B2).
 
-Hobbies: Music (piano, drums and lots of listening), board
-games, cycling.
+Hobbies: Music (piano, drums and lots of listening), board games, cycling.
 
 \end{resume}
 
