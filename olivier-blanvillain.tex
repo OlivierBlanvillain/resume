@@ -1,4 +1,4 @@
-\documentclass[marginmode, 11pt]{res}
+\documentclass[marginmode, 12pt]{res}
 
 \usepackage{fontspec}
 \usepackage{enumitem}
@@ -7,20 +7,16 @@
 \usepackage[autostyle=false, style=english]{csquotes}
 \MakeOuterQuote{"}
 \setmainfont{Adobe Caslon Pro}
-\setlist{parsep=0pt, leftmargin=15pt}
-\geometry{a4paper, left=22mm, top=35mm}
-\setlength\parskip{12pt}
+% \setlist{parsep=5pt, leftmargin=15pt}
+% \setlist{parsep=5pt}
+\geometry{left=35mm,top=35mm} % a4paper
 \newsectionwidth{90pt}
 \newcommand{\centered}[1]{\moveleft.48\hoffset\centerline{#1}}
 
 \begin{document}
 
 \centered{\LARGE\textbf{Olivier Blanvillain}}
-% \centered{54 Scrutton Street}
-% \centered{London EC2A 4PH}
-% \centered{+417 86 85 77 85}
 \centered{\texttt{olivier.blanvillain@gmail.com}}
-\vspace{12pt}
 
 \begin{resume}
 
@@ -34,46 +30,41 @@
 
 \section{Experience}
 
-2023--present:~ Software Engineer at Hudson River Trading (London)
+2023--now:~ Software Engineer at Hudson River Trading (London)
 
 \begin{itemize}
-  \item Use C++ and Python to implement platforms and tools for algorithmic trading;
-  \item Develop scalable data storage and distribution systems for statistical analysis.
+  \item Use C++ and Python to implement platforms and tools for \mbox{algorithmic} trading
+  \item Develop scalable data storage and distribution systems for statistical analysis
 \end{itemize}
 
-2016--2022:~ Doctoral Assistant at EPFL in the Programming Methods Laboratory under the supervision of Prof. Martin Odersky (Lausanne, 5.5 years)
+2016--2022:~ Doctoral Assistant at EPFL under Martin Odersky's supervision. (Lausanne, 6 years)
 
 \begin{itemize}
-  \item Active member of the Scala 3 compiler team;
-  \item Co-designed, implemented and formalized a new language feature: match types;
-  \item Teaching assistant for Functional Programming and Parallelism \& Concurrency.
+  \item Active member of the Scala 3 compiler team
+  \item Co-designed, implemented and formalized match types
+  \item Published in an A* conference (POPL'18 and '22)
 \end{itemize}
 
 2015--2016:~ Software Engineer at MFG Labs (Paris, 15 months)
 
 \begin{itemize}
-  \item Developed an Adtech product using Scala, PostgreSQL, Spark, Elasticsearch, AWS.
+  \item Used Scala, PostgreSQL, Spark, Elasticsearch, AWS
 \end{itemize}
 
 2013:~ Software Engineer Intern at CERN (Geneva, 6 months)
 
-\section{Publications}
-
-O. Blanvillain. "Type-Safe Regular Expressions". In \emph{Scala Symposium}, 2022 (SCALA'22)
-
-O. Blanvillain, J. Brachthäuser, M. Kjaer, M. Odersky. "Type-Level Programming with Match Types". In \emph{Symposium on Principles of Programming Languages}, 2022 (POPL'22)
-
-M. Odersky, O. Blanvillain, F. Liu, A. Biboudis, H. Miller, S. Stucki. "Simplicitly: Foundations and Applications of Implicit Function Types". In \emph{Symposium on Principles of Programming Languages}, 2018 (POPL'18)
-
-O. Blanvillain, N. Kasioumis, V. Banos. "BlogForever Crawler: Techniques and Algorithms to Harvest Modern Weblogs". In \emph{Proceedings of the 4th International Conference on Web Intelligence, Mining and Semantics}, 2014 (WIMS'14).
+\begin{itemize}
+  \item Implemented a blog crawler for scientific blogs
+  \item Published a paper on the design (WIMS'14)
+\end{itemize}
 
 \section{Personal}
 
-Born on July 9, 1990, dual French-Swiss citizenship.
+Dual Swiss/French citizenship
 
-Languages: French (mother tongue), English (fluent), Spanish (B2).
+Languages: French, English (fluent), Spanish (B2)
 
-Hobbies: Music (piano, drums and lots of listening), board games, cycling.
+Hobbies: music, board games, cycling
 
 \end{resume}
 
